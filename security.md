@@ -188,3 +188,5 @@ whole thing is rebuilt each patch anyway, that difference is small.
 **Project status:** ✅ Active · **Version:** 2026 build · **Last updated:** 2026-10-24 · **License:** Shared under the MIT License
 
 *palworld-control-panel*
+
+<!-- rev 2026-10-24 -->

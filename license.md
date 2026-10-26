@@ -185,6 +185,6 @@ whole thing is rebuilt each patch anyway, that difference is small.
 
 ---
 
-**Project status:** ✅ Active · **Version:** 2026 build · **Last updated:** 2026-10-25 · **License:** Shared under the MIT License
+**Project status:** ✅ Active · **Version:** 2026 build · **Last updated:** 2026-10-26 · **License:** Shared under the MIT License
 
 *palworld-control-panel*
